@@ -1,0 +1,13 @@
+{
+    "name": "Adm",
+    "alias": "adm",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Adm\\Providers\\AdmServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
